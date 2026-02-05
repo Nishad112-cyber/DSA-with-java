@@ -4,3 +4,11 @@ Daily practice of Data Structures and Algorithms in Java with clean code and exp
 This repository contains my daily practice of Data Structures and Algorithms in Java.
 Problems are solved with clean code and a focus on logic and optimization.
 
+---
+
+## 📅 Daily DSA Progress
+
+**Day 1**
+- Basics: Input/Output
+- Simple Java programs
+
