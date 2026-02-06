@@ -12,6 +12,6 @@ Problems are solved with clean code and a focus on logic and optimization.
 - Basics: Input/Output
 - Simple Java programs
 
-- 
 **Day 2**
+
 Added basic problems on if-else, nested conditions, and switch-case in Java.
