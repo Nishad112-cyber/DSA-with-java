@@ -6,6 +6,7 @@ public class Takeinput {
     int a= sc.nextInt();
     System.out.print("enter b : ");
     int b=sc.nextInt();
+    sc.close();
     int sum=a+b;
     System.out.println("sum is = "+sum);
    } 
