@@ -15,3 +15,6 @@ Problems are solved with clean code and a focus on logic and optimization.
 **Day 2**
 
 Added basic problems on if-else, nested conditions, and switch-case in Java.
+**Day 2**
+olved Java problems combining loops and conditional statements,
+tested for correctness.
