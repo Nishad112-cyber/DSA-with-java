@@ -22,3 +22,8 @@ tested for correctness.
 
 **Day 4**
 Learned array basics and solved simple array problems
+
+**Day 5**
+Learned array basics and solved simple array problems
+
+
