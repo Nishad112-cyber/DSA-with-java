@@ -29,4 +29,7 @@ Learned array basics and solved simple array problems
 **Day 6**
 solved simple array  sub array problems.
 
+**Day 7**
+Solved the Trapping Rain Water problem using arrays. 
+Practiced implementing an efficient approach to calculate trapped water.
 
