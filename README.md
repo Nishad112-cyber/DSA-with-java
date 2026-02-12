@@ -33,3 +33,8 @@ solved simple array  sub array problems.
 Solved the Trapping Rain Water problem using arrays. 
 Practiced implementing an efficient approach to calculate trapped water.
 
+**Day 8**
+solve some array problem and optimize problem .
+
+
+
