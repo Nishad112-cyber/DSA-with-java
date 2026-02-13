@@ -36,7 +36,7 @@ Practiced implementing an efficient approach to calculate trapped water.
 **Day 8**
 solve some array problem and optimize problem .
 
-**Day 8**
+**Day 9**
 Solved some array problems in Java on GeeksforGeeks to improve problem-solving skills.
 
 
