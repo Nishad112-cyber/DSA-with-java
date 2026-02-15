@@ -39,5 +39,10 @@ solve some array problem and optimize problem .
 **Day 9**
 Solved some array problems in Java on GeeksforGeeks to improve problem-solving skills.
 
+**Day 10**
+Practiced array problems from GeeksforGeeks platform.
+Focused on improving logic building and optimizing approach.
+Strengthened understanding of time complexity and edge cases.
+
 
 
