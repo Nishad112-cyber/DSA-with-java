@@ -44,5 +44,9 @@ Practiced array problems from GeeksforGeeks platform.
 Focused on improving logic building and optimizing approach.
 Strengthened understanding of time complexity and edge cases.
 
+**Day 11**
+Solved the problem of rotating an array to the left by a given index (k positions).
+Implemented the optimized reversal algorithm approach (O(n) time, O(1) space).
+
 
 
