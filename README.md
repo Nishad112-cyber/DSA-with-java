@@ -48,5 +48,9 @@ Strengthened understanding of time complexity and edge cases.
 Solved the problem of rotating an array to the left by a given index (k positions).
 Implemented the optimized reversal algorithm approach (O(n) time, O(1) space).
 
+**Day 12**
+Started the Strings topic in Data Structures & Algorithms.
+Learned basic string operations and concepts.
+Practiced introductory string problems to build understanding.
 
 
